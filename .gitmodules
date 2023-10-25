@@ -1,0 +1,3 @@
+[submodule "wonderful_web"]
+	path = wonderful_web
+	url = git@github.com:FloZone/wonderful_web.git
